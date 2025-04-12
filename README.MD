@@ -25,6 +25,9 @@ Desaceleración máxima – Valor representativo de qué tan rápido frena el ve
 Estas estadísticas pueden verse afectadas por colisiones o caídas. Usa el botón "Reset" para restablecerlas.
 ![LiveHandling2](https://user-images.githubusercontent.com/8594390/113525004-6e12a400-9580-11eb-8ad2-a5fd70aef41d.png)
 
+## Mas info y wiki
+https://github.com/ApexDevNetwork/ADN_handling-vehicles
+https://github.com/ApexDevNetwork/ADN_handling-vehicles/wiki
 
 ## Créditos
 Gracias al post de V4D3R en 5Mods por la documentación sobre campos de handling.meta:
